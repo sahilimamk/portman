@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Port Manager
+Comment=Manage all ports — listening, connections, firewall, USB/serial
+Exec=portman
+Icon=network-workgroup
+Terminal=false
+Categories=System;Network;Utility;
+Keywords=port;ports;firewall;ufw;ss;tcp;udp;usb;serial;
